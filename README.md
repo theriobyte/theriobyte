@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## ☆ hello!
+i'm luciel (he/him) and im a programmer and artist!
+my site (hosted off of my github profile) is found at --> https://theriobyte.github.io
 <!--
 **theriobyte/theriobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
